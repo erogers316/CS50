@@ -1,2 +1,4 @@
 # CS50
+hello.py
 print ("hello, world")
+python hello.py
